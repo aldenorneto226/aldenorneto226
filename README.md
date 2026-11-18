@@ -3,10 +3,11 @@
 <img height = '30' width = '30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /> Entusiasta da linguagem C sharp          
 
 💻 Atualmente focado em:
+<div style = "display:inline"> 
 <img height = '30' width = '30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 <img height = '30' width = '30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
 <img height = '30' width = '30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/metabase/metabase-original.svg" />
-          
+</div>          
                     
 <!--
 **aldenorneto226/aldenorneto226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
