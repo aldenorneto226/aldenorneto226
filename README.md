@@ -1,8 +1,7 @@
 ## oi, prazer Aldenor Neto 👋
 
 
-<img height = '50' width = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-          
+<img height = '30' width = '30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /> Entusiasta da linguagem C sharp          
 
 <!--
 **aldenorneto226/aldenorneto226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
