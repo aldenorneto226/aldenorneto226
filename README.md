@@ -1,7 +1,7 @@
 ## oi, prazer Aldenor Neto 👋
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+<img height = '50' width = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
           
 
 <!--
