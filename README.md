@@ -1,4 +1,8 @@
-## Hi there 👋
+## oi, prazer Aldenor Neto 👋
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+          
 
 <!--
 **aldenorneto226/aldenorneto226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
