@@ -1,6 +1,6 @@
 ## Oi, Aldenor Neto aqui 😎
 
-<img height = '30' width = '30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /> Entusiasta da linguagem C sharp          
+<img height = '30' width = '30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /> Entusiasta da linguagem C#, Python, BD e dados.           
 
 💻 Atualmente focado em:
 <div style = "display:inline"> 
